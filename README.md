@@ -39,7 +39,7 @@ A passionate tech learner focused on **App Development**, **Machine Learning**, 
 
 <p align="center">
 
-HTML • CSS • JavaScript • Java • Python • Flutter • Firebase • Machine Learning
+HTML • CSS • JavaScript • GitHub Pages • Google Sheets • Apps Script
 
 </p>
 
