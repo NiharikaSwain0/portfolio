@@ -2,11 +2,11 @@
 
 # ✨🌸 Niharika Swain Portfolio 🌸✨
 
-### 👩‍💻 Aspiring Data Scientist | Web Developer | Tech Enthusiast
+### 👩‍💻 Aspiring Data Scientist | App Developer | Machine Learning Enthusiast | Web Developer
 
 <img src="https://img.shields.io/badge/Portfolio-Live-pink?style=for-the-badge">
-<img src="https://img.shields.io/badge/HTML-Website-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Open%20Source-GitHub-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/App%20Developer-Android-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Machine%20Learning-AI-blue?style=for-the-badge">
 
 </div>
 
@@ -15,24 +15,23 @@
 ## 💫 About Me
 
 Hello! I'm **Niharika Swain** 🌸  
-A passionate learner who loves creating modern websites, coding innovative projects, and exploring data science.
+A passionate tech learner focused on **App Development**, **Machine Learning**, and building real-world innovative solutions.
 
 📍 India  
 🎓 B.Tech Student  
-💡 Interested in AI, Web Development & Problem Solving
+💡 Love creating smart apps, AI projects & modern websites
 
 ---
 
 ## 🚀 Portfolio Highlights
 
-✨ Beautiful Responsive Design  
-✨ Smooth Navigation Menu  
-✨ About Me Section  
-✨ Skills & Services Showcase  
-✨ Project Portfolio Gallery  
-✨ Contact Form Connected with Google Sheets  
-✨ Resume Download Button  
-✨ Social Media Links  
+✨ Responsive & Modern Design  
+✨ Android App Development Projects  
+✨ Machine Learning Projects  
+✨ Web Development Skills  
+✨ Portfolio Showcase  
+✨ Contact Form with Google Sheets  
+✨ Resume Download Option  
 
 ---
 
@@ -40,7 +39,7 @@ A passionate learner who loves creating modern websites, coding innovative proje
 
 <p align="center">
 
-HTML • CSS • JavaScript • GitHub • Google Sheets • Apps Script
+HTML • CSS • JavaScript • Java • Python • Flutter • Firebase • Machine Learning
 
 </p>
 
@@ -49,19 +48,26 @@ HTML • CSS • JavaScript • GitHub • Google Sheets • Apps Script
 ## 🌟 Featured Projects
 
 ### 🌾 KisanSetu
-A smart farmer-to-consumer platform with delivery, marketplace & smart tools.
+Direct Farmer to Consumer Android App with delivery system, smart tools, and marketplace.
+
+### 🤖 Machine Learning Stock Analysis
+Smart stock market prediction and analysis project using machine learning.
 
 ### 🛡️ Safe Step Analyzer
-Safety focused smart application for user assistance.
+AI-powered safety and alert application.
 
 ### 🎓 Student Course Registration System
 Java GUI project with database connectivity.
 
 ---
 
-## 📸 Website Preview
+## 📈 Areas of Interest
 
-> Elegant portfolio website designed to showcase my journey, projects, and skills.
+📱 Mobile App Development  
+🤖 Machine Learning  
+🌐 Web Development  
+📊 Data Science  
+☁️ Cloud Technologies
 
 ---
 
@@ -76,7 +82,7 @@ Java GUI project with database connectivity.
 
 🔗 LinkedIn  
 💻 GitHub  
-🧠 LeetCode  
+🧠 LeetCode
 
 ---
 
